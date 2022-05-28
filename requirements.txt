@@ -1,0 +1,14 @@
+dj-database-url
+Django
+django-admin-thumbnails
+django-filter
+jquery.javascript
+Pillow
+psycopg2-binary
+whitenoise
+django-tables2
+django-crispy-forms
+psycopg2-binary
+boto3
+django-storages
+easy_thumbnails
